@@ -25,5 +25,4 @@ Mendalami **Python** untuk otomasi analisis data & rekonsiliasi.
 
 ## 📫 Kontak
 
-<!-- TODO: ganti dengan email & LinkedIn kamu -->
-✉️ `email@kamu.com` · 💼 `linkedin.com/in/username-kamu`
+✉️ [tiobudisetiawan28@gmail.com](mailto:tiobudisetiawan28@gmail.com)
